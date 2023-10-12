@@ -1,5 +1,5 @@
 ## Thanks for visiting :octocat:
 
-I am Uladzislau, a begginer software developer. Mainly interested in technologies such as JavaScript, Node.js.
+I am Uladzislau, a software developer. Mainly interested in WEB technologies (JS, TS, React, Node.js) and .NET, C#.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Uladzislau-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/uladzislau-sobal-ba43b8212/)
